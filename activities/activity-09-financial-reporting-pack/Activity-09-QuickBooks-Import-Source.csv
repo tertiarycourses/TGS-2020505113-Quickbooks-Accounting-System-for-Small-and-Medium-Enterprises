@@ -1,0 +1,5 @@
+Record ID,Date,Counterparty,Description,Net Amount (SGD),GST Rate
+RPT-REV,2026-01-31,Management,Revenue,180000,0
+RPT-COGS,2026-01-31,Management,Cost of goods sold,108000,0
+RPT-OPEX,2026-01-31,Management,Operating expenses,51000,0
+RPT-AR,2026-01-31,Management,Accounts receivable,100500,0

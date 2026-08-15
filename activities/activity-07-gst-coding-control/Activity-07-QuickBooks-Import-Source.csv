@@ -1,0 +1,5 @@
+Record ID,Date,Counterparty,Description,Net Amount (SGD),GST Rate
+GST-S01,2026-01-09,Singapore customer,Standard-rated local sale,5000,0.09
+GST-S02,2026-01-11,Overseas customer,Potential zero-rated export,7200,0
+GST-P01,2026-01-13,Local supplier,Eligible local business purchase,2400,0.09
+GST-P02,2026-01-15,Staff claim,Private element requires escalation,600,0.09

@@ -1,0 +1,4 @@
+Record ID,Date,Counterparty,Description,Net Amount (SGD),GST Rate
+COA-1100,2026-01-01,Opening migration,DBS Operating Bank,125000,0
+CUS-001,2026-01-01,Lion City Cafe Pte Ltd,Customer opening balance,18000,0.09
+SUP-001,2026-01-01,Merlion Packaging Pte Ltd,Supplier opening balance,9500,0.09

@@ -1,0 +1,4 @@
+Record ID,Date,Counterparty,Description,Net Amount (SGD),GST Rate
+F5-001,2026-01-31,GST control,Quarter taxable supplies,186000,0.09
+F5-002,2026-01-31,GST control,Quarter taxable purchases,92000,0.09
+F5-003,2026-01-31,GST control,Credit adjustments,-2500,0.09

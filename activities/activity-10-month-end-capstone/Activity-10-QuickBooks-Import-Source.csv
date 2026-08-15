@@ -1,0 +1,5 @@
+Record ID,Date,Counterparty,Description,Net Amount (SGD),GST Rate
+CAP-001,2026-01-31,Month-end,Unreconciled bank line,1250,0.09
+CAP-002,2026-01-31,Month-end,Duplicate supplier bill,-2180,0.09
+CAP-003,2026-01-31,Month-end,Uncoded GST transaction,3400,0.09
+CAP-004,2026-01-31,Month-end,Overdue customer balance,7800,0

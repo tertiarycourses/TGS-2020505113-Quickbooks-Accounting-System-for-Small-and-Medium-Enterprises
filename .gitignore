@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.claude/
+assessment/
+build/
+qa/
+reference/
+courseware/assets/
+Learner Guide/
+Lesson Plan/
+QA-ALIGNMENT-*.md
+SOURCE-COVERAGE-*.md
+*.pyc
+__pycache__/

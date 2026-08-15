@@ -1,0 +1,5 @@
+Record ID,Date,Counterparty,Description,Net Amount (SGD),GST Rate
+BNK-001,2026-01-05,Director,Capital injection,80000,0
+BNK-002,2026-01-12,City Office Services,Consulting fee,-2400,0.09
+BNK-003,2026-01-20,Internal transfer,DBS to OCBC,-15000,0
+BNK-004,2026-01-31,DBS,Bank charge,-35,0

@@ -1,0 +1,4 @@
+Record ID,Date,Counterparty,Description,Net Amount (SGD),GST Rate
+INV-MUG,2026-01-01,Warehouse,Reusable mugs opening,12000,0
+INV-CUP,2026-01-31,Warehouse,Eco cup movement,8400,0
+ADJ-001,2026-01-31,Warehouse,Approved stock adjustment,-180,0
